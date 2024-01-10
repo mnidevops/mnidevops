@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mnidevops
-- 👀 I’m interested in new tools and technologies.
+- 👋 Hi, I’m Manoj Indalkar
+- 👀 I’m interested in new DevOps tools and Cloud technologies.
 - 🌱 I’m currently learning DevOps and Cloud technologies.
 - 💞️ I’m looking to collaborate on DevOps related work.
 - 📫 How to reach me - mnidevops@gmail.com|+91-9552877667
